@@ -1,0 +1,108 @@
+# Uzbek translations for PROJECT.
+# Copyright (C) 2025 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-02-22 11:29+0300\n"
+"PO-Revision-Date: 2025-02-18 20:19+0300\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: uz\n"
+"Language-Team: uz <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.13.1\n"
+
+#: Module_5/all_lessons/lesson_4.py:27 Module_5/all_lessons/lesson_4.py:40
+#, fuzzy
+msgid "Choise language"
+msgstr "Tilni tanlang:"
+
+#: Module_5/all_lessons/lesson_4.py:53
+#, fuzzy
+msgid "Chose language"
+msgstr "Tilni tanlang:"
+
+#: bot/handler/action.py:13 bot/handler/action.py:21 bot/handler/action.py:29
+#: bot/handler/comediya.py:14 bot/handler/comediya.py:22
+#: bot/handler/comediya.py:30 bot/handler/drama.py:13 bot/handler/drama.py:21
+#: bot/handler/drama.py:29
+msgid "⬅️ Back"
+msgstr "⬅️ Orqaga"
+
+#: bot/handler/action.py:16 bot/handler/drama.py:16
+msgid "✅Internal departments"
+msgstr "✅ Ichki bo‘limlar"
+
+#: bot/handler/comediya.py:17
+msgid "✅ Internal departments "
+msgstr "✅ Ichki bo‘limlar"
+
+#: bot/handler/main_hand.py:24 bot/handler/main_hand.py:60
+msgid "🎥Films"
+msgstr "🎥 Filmlar"
+
+#: bot/handler/main_hand.py:24 bot/handler/main_hand.py:60
+msgid "📞 Call center"
+msgstr "📞 Call-markaz"
+
+#: bot/handler/main_hand.py:24 bot/handler/main_hand.py:60
+msgid "🇷🇺 🇺🇿 🇬🇧 Language"
+msgstr "🇷🇺 🇺🇿 🇬🇧 Til"
+
+#: bot/handler/main_hand.py:26
+msgid "Admin"
+msgstr ""
+
+#: bot/handler/main_hand.py:31
+msgid "Search films"
+msgstr ""
+
+#: bot/handler/main_hand.py:32 bot/handler/main_hand.py:62
+msgid "✅ Main menu:"
+msgstr "✅ Asosiy menyu:"
+
+#: bot/handler/main_hand.py:37 bot/handler/main_hand.py:67
+#: bot/handler/main_hand.py:74
+msgid "⬅️Back"
+msgstr "⬅️Orqaga"
+
+#: bot/handler/main_hand.py:40
+#, fuzzy
+msgid "Chose language:"
+msgstr "Tilni tanlang:"
+
+#: bot/handler/main_hand.py:55
+msgid "❌ Iltimos, menyudan tilni tanlang!"
+msgstr ""
+
+#: bot/handler/main_hand.py:67
+msgid "🎭Drama"
+msgstr "🎭 Drama"
+
+#: bot/handler/main_hand.py:67
+msgid "😂Comedy"
+msgstr "😂 Komediya"
+
+#: bot/handler/main_hand.py:67
+msgid "🎬Action"
+msgstr "🎬 Jangari"
+
+#: bot/handler/main_hand.py:70
+msgid "✅ In the movies section:"
+msgstr "✅ Filmlar bo‘limida:"
+
+#~ msgid "🇺🇿 Uzbek"
+#~ msgstr "🇺🇿 O‘zbek"
+
+#~ msgid "🇷🇺 Russian"
+#~ msgstr "🇷🇺 Rus"
+
+#~ msgid "🇬🇧 English"
+#~ msgstr "🇬🇧 Ingliz"
+
